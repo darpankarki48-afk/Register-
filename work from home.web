@@ -1,0 +1,55 @@
+/* Top Banner */
+.banner{
+  background:#020617;
+  padding:15px;
+  text-align:center;
+  border-bottom:1px solid #1e293b;
+}
+.banner h1{
+  margin:0;
+  font-size:22px;
+  color:#38bdf8;
+}
+.banner p{
+  margin:5px 0 0;
+  font-size:14px;
+  color:#94a3b8;
+}
+
+/* Form */
+.form-box{
+  max-width:400px;
+  margin:60px auto;
+  padding:25px;
+  background:#111827;
+  border-radius:15px;
+}
+h2{
+  text-align:center;
+  margin-bottom:20px;
+  color:#38bdf8;
+}
+input{
+  width:100%;
+  padding:12px;
+  margin:10px 0;
+  border:none;
+  border-radius:8px;
+  outline:none;
+  font-size:15px;
+}
+button{
+  width:100%;
+  padding:12px;
+  margin-top:15px;
+  background:#22c55e;
+  color:black;
+  border:none;
+  border-radius:25px;
+  font-size:16px;
+  font-weight:bold;
+  cursor:pointer;
+}
+button:hover{
+  opacity:0.85;
+}
